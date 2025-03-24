@@ -8,10 +8,10 @@ import glob
 from psnr_ssim import calculate_psnr, calculate_ssim
 
 # 수정: Ground truth 이미지들이 저장된 디렉토리 경로 (반드시 실제 경로로 변경)
-GROUND_TRUTH_DIR = "/path/to/ground_truth"
+GROUND_TRUTH_DIR = "evaluation_script"
 
 # 유효한 이미지 확장자
-VALID_EXTENSIONS = ('.png', '.jpg', '.jpeg', '.dng')
+VALID_EXTENSIONS = ('.png', '.dng')
 
 def build_ground_truth_dict(gt_dir):
     """
