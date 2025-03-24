@@ -19,10 +19,8 @@ allowed_email_domains: []
 blocked_email_domains: []
 tags: 
   - computer-vision
-  - machine-learning
 domain:
   - computer-vision
-  - machine-learning
 leaderboard:
   - id: 1
     schema: >
