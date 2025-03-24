@@ -13,7 +13,7 @@ remote_evaluation: False
 is_docker_based: False
 is_static_dataset_code_upload: False
 start_date: 2025-03-21 00:00:00
-end_date: 2099-05-31 23:59:59
+end_date: 2029-05-31 23:59:59
 published: True
 allowed_email_domains: []
 blocked_email_domains: []
