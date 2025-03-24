@@ -18,14 +18,11 @@ published: True
 allowed_email_domains: []
 blocked_email_domains: []
 tags: 
-  - random-number-generation
-  - machine-learning
-  - data-science
   - computer-vision
+  - machine-learning
 domain:
   - computer-vision
   - machine-learning
-  - data-science
 leaderboard:
   - id: 1
     schema: >
