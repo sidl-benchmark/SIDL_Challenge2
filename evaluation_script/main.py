@@ -8,7 +8,7 @@ import glob
 from psnr_ssim import calculate_psnr, calculate_ssim
 
 # 수정: Ground truth 이미지들이 저장된 디렉토리 경로 (반드시 실제 경로로 변경)
-GROUND_TRUTH_DIR = "annotations"
+GROUND_TRUTH_DIR = "./annotations/"
 
 # 유효한 이미지 확장자
 VALID_EXTENSIONS = ('.png', '.dng')
